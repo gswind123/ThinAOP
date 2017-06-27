@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinAOP", "ThinAOP\ThinAOP.csproj", "{D324119D-D0FE-4A9D-9801-8071A1272233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestThinAOP", "TestThinAOP\TestThinAOP.csproj", "{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D324119D-D0FE-4A9D-9801-8071A1272233}.Release|x86.ActiveCfg = Release|Any CPU
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Debug|x86.ActiveCfg = Debug|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Debug|x86.Build.0 = Debug|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Release|Any CPU.ActiveCfg = Release|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Release|x86.ActiveCfg = Release|x86
+		{C342D72C-B06F-42FC-9CAD-64F3FE78B1E7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
